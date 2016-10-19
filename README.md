@@ -1,6 +1,6 @@
 # Fizzbuzz
 
-This is Fizzbuzz implemented in Python.
+This is Fizzbuzz implemented in various languages.
 
 This prints every number from 1 to 100. 
 
